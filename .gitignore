@@ -36,6 +36,7 @@
 *.x86_64
 *.hex
 hello
+labrabota2-1
 
 # Debug files
 *.dSYM/

@@ -1,11 +1,16 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+This repository contains the solution of laboratory work №2, task 1.
+
+Author: Shamruk Polina  
+Group: 11  
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+The program is built and executed in the Replit environment.
+All changes are made in the development branch and published to GitHub.
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+The project is compiled using gcc.
+The build command is configured in the .replit file.
