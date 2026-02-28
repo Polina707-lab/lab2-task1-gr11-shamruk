@@ -5,10 +5,15 @@ This repository contains the solution of laboratory work №2, task 1.
 Author: Shamruk Polina  
 Group: 11  
 
-# Usage
+Usage
 
-The program is built and executed in the Replit environment.
-All changes are made in the development branch and published to GitHub.
+The program receives three command line arguments:
+g – year
+m – month number
+n – day number
+
+Example:
+./labrabota2-1 2024 2 28
 
 # Building
 
